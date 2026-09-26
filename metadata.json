@@ -1,0 +1,8 @@
+{
+  "name": "X-Harmony Cleaning Cluj",
+  "description": "A modern, high-converting mobile landing page for premium, eco-friendly cleaning services in Cluj-Napoca with instant price calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
